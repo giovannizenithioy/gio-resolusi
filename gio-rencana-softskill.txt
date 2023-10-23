@@ -5,4 +5,7 @@ SOFTSKILL YANG AKAN DIPEPELAJARI
   *bootstrap
   *tailwindcss
 -JAVASCRIPT
+  *framework javascript
+     ^reactjs
 -DATABASE
+  *framework php
