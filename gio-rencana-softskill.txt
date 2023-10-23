@@ -6,5 +6,6 @@ SOFTSKILL YANG AKAN DIPEPELAJARI
   *tailwindcss
 -JAVASCRIPT
   *framework javascript
+     ^reactjs
 -DATABASE
   *framework php
