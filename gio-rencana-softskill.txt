@@ -5,3 +5,4 @@ SOFTSKILL YANG AKAN DIPEPELAJARI
   *bootstrap
   *tailwindcss
 -JAVASCRIPT
+-DATABASE
