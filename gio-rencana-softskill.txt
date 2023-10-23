@@ -2,7 +2,10 @@ SOFTSKILL YANG AKAN DIPEPELAJARI
 -HTML
 -CSS
 -FRAMEWORK CSS
-  *bootstrap
   *tailwindcss
 -JAVASCRIPT
+  *framework javascript
+    ^vue
+    ^reactjs
 -DATABASE
+  *framework php
